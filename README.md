@@ -1,16 +1,18 @@
-## Hi there 👋
+## I'm Arek, a Full Stack Developer with a strong interest in learning new technologies 👋
 
-<!--
-**ArkadiuszSchabowski/ArkadiuszSchabowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 **My latest project:** [GuineaPigApp](https://github.com/ArkadiuszSchabowski/GuineaPigApp)  
+- 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack & Tools  
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman,azure,angular,typescript,html,css,figma,github,git,visualstudio,vscode" alt="Tech Stack & Tools" />
+
+---
+
+📫 **Contact me:** arkadiuszschabowski@gmail.com
+
+**Feel free to reach out and check out my projects!** ✌️
