@@ -7,11 +7,13 @@
 
 ---
 
-## Tech Stack & Tools  
-<!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman,azure,angular,typescript,html,css,figma,github,git,visualstudio,vscode,docker,linux" alt="Tech Stack & Tools" />
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,angular,typescript,html,css"/>
 
 ---
+
+## Tools
+<img src="https://skillicons.dev/icons?i=postman,azure,figma,github,git,visualstudio,vscode,linux,docker"/>
 
 📫 **Contact me:** arkadiuszschabowski@gmail.com
 
