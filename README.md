@@ -9,7 +9,7 @@
 
 ## Tech Stack & Tools  
 <!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman,azure,angular,typescript,html,css,figma,github,git,visualstudio,vscode" alt="Tech Stack & Tools" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postman,azure,angular,typescript,html,css,figma,github,git,visualstudio,vscode,docker,linux" alt="Tech Stack & Tools" />
 
 ---
 
