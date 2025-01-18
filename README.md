@@ -3,7 +3,7 @@
 ---
 
 - 🔭 **My latest project:** [GuineaPigApp](https://github.com/ArkadiuszSchabowski/GuineaPigApp)
-- ▶️ **Watch on YouTube:** [Presentation](https://www.youtube.com/watch?v=ik_C2L5AviA)
+- ▶️ **Watch on YouTube:** [GuineaPigApp Presentation](https://www.youtube.com/watch?v=ik_C2L5AviA)
 - 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
 ---
