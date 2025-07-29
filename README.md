@@ -9,7 +9,7 @@
 ---
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,angular,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,angular,typescript,html,css,rabbitmq"/>
 
 ---
 
