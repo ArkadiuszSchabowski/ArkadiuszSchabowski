@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 **My latest project:** [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve), [GuineaPigApp](https://github.com/ArkadiuszSchabowski/GuineaPigApp)
+- 🔭 **My latest projects:** [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve), [GuineaPigApp](https://github.com/ArkadiuszSchabowski/GuineaPigApp)
 - 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
 ---
