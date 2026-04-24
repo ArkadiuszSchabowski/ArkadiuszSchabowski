@@ -13,7 +13,7 @@
 ---
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=postman,azure,figma,github,git,visualstudio,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=postman,azure,figma,github,git,visualstudio,vscode,idea,linux,docker"/>
 
 📫 **Contact me:** arkadiuszschabowski@gmail.com
 
