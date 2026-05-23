@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 **My latest projects:** [TripAI](https://github.com/ArkadiuszSchabowski/TripAI), [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve), [GuineaPigApp](https://github.com/ArkadiuszSchabowski/GuineaPigApp), [ToDoList](https://github.com/ArkadiuszSchabowski/ToDoList)
+- 🔭 **My latest projects:** [TripAI](https://github.com/ArkadiuszSchabowski/TripAI), [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve)
 - 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
 ---
