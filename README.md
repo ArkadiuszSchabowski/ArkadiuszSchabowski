@@ -1,7 +1,7 @@
 ## I'm Arek, a Full Stack Developer with a strong interest in learning new technologies 👋
 
 ---
-
+- 🌐 **Portfolio:** [Portfolio](https://arkadiusz-schabowski.netlify.app)
 - 🔭 **My latest projects:** [TripAI](https://github.com/ArkadiuszSchabowski/TripAI), [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve)
 - 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
