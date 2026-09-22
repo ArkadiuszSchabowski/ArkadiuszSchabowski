@@ -2,8 +2,7 @@
 
 ---
 - 🌐 **Portfolio:** [Portfolio](https://arkadiusz-schabowski.netlify.app)
-- 🚀 **Commercial project:** Building [StoryFlow](https://www.storyflow.pl), an English learning platform. Code is private.
-- 🔭 **My latest projects:** [TripAI](https://github.com/ArkadiuszSchabowski/TripAI), [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve)
+- 🔭 **My latest projects:** [StoryFlow](https://www.storyflow.pl), [TripAI](https://github.com/ArkadiuszSchabowski/TripAI), [SportReserve](https://github.com/ArkadiuszSchabowski/SportReserve)
 - 🌱 **Currently learning:** Exploring new technologies and frameworks while balancing skillset expansion and mastery of core concepts.
 
 ---
